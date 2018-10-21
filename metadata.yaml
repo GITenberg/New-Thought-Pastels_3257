@@ -1,5 +1,5 @@
 _repo: New-Thought-Pastels_3257
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'American poetry'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: A dialogue -- The weed -- Strength -- Affirm -- The chosen -- The
   nameless -- The word -- Assistance -- Credulity' -- Consciousness -- The structure
   -- Our souls -- The law -- Knowledge -- Give -- Perfection -- Fear -- The way --
